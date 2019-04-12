@@ -1,0 +1,28 @@
+P:1,Djole Djordjevic,111
+P:2,Miki Matic,222
+P:3,Janko Jankovic,333
+P:4,Zoran Markovic,444
+P:5,Nikola Miletic,555
+P:6,Goran Gojkovic,666
+P:7,Bosko Milosevic,777
+P:56,Micko Mickic,888
+P:8,Ana Veljkovic,999
+P:77,Miki Markovic,666
+PR:111,Osnove programiranja
+PR:222,Osnove JAVA programiranja
+PR:333,Osnove JS programiranja
+PR:444,Osnove racunara
+PR:555,Osnove baze podataka
+PR:999,Osnove HTMLa i CSSa
+PR:888,Osnove PAINTa
+PR:777,Osnove racunara
+PR:666,Osnove paralelnog programiranja
+S:54,2006,Slavko Stanisavljevic,111,8,222,7,333,7,888,10,666,10
+S:53,2006,Svetlana Zivanovic,111,6,333,10,666,9
+S:154,2008,Marko Markovic,111,6,222,9,333,9,666,8
+S:24,2016,Dusan Savic,222,5,444,9,777,9,666,7
+S:56,2017,Natasa Jankovic,111,9,999,9,666,8,222,8,333,7,444,7,555,9,888,9,777,10
+S:45,2011,Bojan Tomic,111,8,222,7,999,9,666,9
+S:77,2014,Micko Antic,111,8,222,9,333,8,444,9,555,10,999,7,888,8,777,9,666,6
+S:77,2018,Marko Miletic,111,9,222,9,333,9,444,9,555,9,999,9,888,9,777,10,666,9
+S:55,2018,Djiki Petrovic,111,7,222,8,333,9,444,10,555,9,999,8,888,7,777,6,666,7
